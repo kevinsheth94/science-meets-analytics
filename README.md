@@ -1,1 +1,1 @@
-# sciencemeetsanalysis
+# scienc-emeets-analytics
